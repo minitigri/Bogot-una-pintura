@@ -1,0 +1,12 @@
+Estos archivos deben ser guardados en "(usuario)\AppData\Roaming\QGIS\QGIS3\profiles\default\processing\models"
+de este modo podrás encontrar el aplicativo dentro de la caja de herramientas en la categoría modelos.
+De no aparecer usa la herramienta agregar modelo.
+
+Para más información puedes contactarme a través de mis redes sociales.
+
+Facebook: Tigrillo cartográfico
+Twitter: @MiniTigri
+Instagram: tigri:maps:es
+Correo: aflancheros@gmail.com / anflancherossa@unal.edu.co
+
+©ANDRÉS FELIPE LANCHEROS 2021 - TIGRILLL CARTOGRÁFICO
